@@ -8,4 +8,4 @@ Here are some screenshots of the livery:
 ![4](https://user-images.githubusercontent.com/86084719/134289288-681237c9-05e2-4a49-aebf-e2cae9b7a9a3.png)
 ![6](https://user-images.githubusercontent.com/86084719/134289293-e927485f-739e-4cd6-8502-b50a6771deaf.png)
 
-Please delete this README.md file when you have completed the livery installation.
+Please delete this README.md file after you have completed the livery installation.
